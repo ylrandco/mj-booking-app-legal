@@ -1,0 +1,105 @@
+# Privacy Policy
+
+**Last updated:** 22 January 2026
+
+This Privacy Policy explains how **Mike Jackson Vehicle Servicing** ("we", "us", or "our") collects, uses, and protects your information when you use our booking application and related services (the "App").
+
+By using the App, you agree to the collection and use of information in accordance with this policy.
+
+---
+
+## 1. Information We Collect
+
+### 1.1 Information You Provide
+
+We may collect the following information when you create an account or use the App:
+
+* Full name
+* Email address
+* Phone number
+* Vehicle and booking details
+* Any information you submit through support or bug reports
+
+### 1.2 Automatically Collected Information
+
+When you use the App, we may automatically collect:
+
+* Device information (device type, operating system)
+* App usage data (pages viewed, actions taken)
+* IP address and approximate location
+
+---
+
+## 2. How We Use Your Information
+
+We use your information to:
+
+* Create and manage your account
+* Process and manage bookings
+* Communicate with you about bookings, updates, and support
+* Improve app performance and user experience
+* Detect and prevent fraud or abuse
+
+---
+
+## 3. Sharing of Information
+
+We do not sell your personal data.
+
+We may share information with:
+
+* Service providers (e.g. hosting, email, notifications)
+* Legal authorities if required by law
+* Business partners strictly for providing booked services
+
+All third parties are required to protect your data.
+
+---
+
+## 4. Data Storage and Security
+
+Your data is stored securely using industry-standard security measures. We take reasonable steps to protect your personal information from unauthorised access, alteration, or disclosure.
+
+---
+
+## 5. Data Retention
+
+We retain your personal information only for as long as necessary to provide the App and comply with legal obligations.
+
+You may request deletion of your account and personal data at any time.
+
+---
+
+## 6. Your Rights
+
+Depending on your location, you may have the right to:
+
+* Access the personal data we hold about you
+* Request correction or deletion of your data
+* Withdraw consent where applicable
+
+To exercise these rights, contact us using the details below.
+
+---
+
+## 7. Children’s Privacy
+
+The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children.
+
+---
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated revision date.
+
+---
+
+## 9. Contact Us
+
+If you have any questions about this Privacy Policy or how we handle your data, contact us at:
+
+**Email:** mikejacksonvs1@gmail.com
+
+---
+
+If you do not agree with this Privacy Policy, please do not use the App.
